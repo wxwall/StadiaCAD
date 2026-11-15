@@ -1,0 +1,6 @@
+{
+  "name": "StadiaCAD — 体育场馆参数化2D/3D建筑设计器",
+  "description": "模块化体育场馆CAD布局与视线分析系统，支持内场多形态参数化建模、同心辐射看台分块、包厢与多层坡度视线C值剖面分析、标准Schema与CAD/3D导出。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
